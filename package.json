@@ -4,7 +4,7 @@
   "description": "",
   "main": "W2CH1-edgaralcolea.js",
   "scripts": {
-    "test": "npx jest --watch --verbose"
+    "test": "npx jest --watchAll --verbose"
   },
   "repository": {
     "type": "git",
